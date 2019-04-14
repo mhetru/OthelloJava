@@ -1,4 +1,4 @@
-Othello in JAVA
+Othello : french game in JAVA
 ---
 What else's fun to learn programmation oriented objects with game?
 
