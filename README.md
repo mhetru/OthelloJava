@@ -2,7 +2,7 @@ Othello in JAVA
 ---
 What else's fun to learn programmation oriented objects with game?
 
-It was a project at my studies in university at 2002.
+It was a project at my studies in university at 2003.
 
 Pre-requisite :
 JDK (OpenJDK or Oracle JDK)
