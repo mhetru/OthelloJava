@@ -1,4 +1,13 @@
 Othello in JAVA
+---
+What else's fun to learn programmation oriented objects with game?
+
+It was a project at my studies in university at 2002.
+
+Pre-requisite :
+JDK (OpenJDK or Oracle JDK)
+
+Text version of the game :
 
 4 versions of Othello game :
 - version one player in text mode with keyboard (two players human) ;
