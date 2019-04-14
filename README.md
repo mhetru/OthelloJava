@@ -14,7 +14,7 @@ Text version of the game :
 - version two players in text mode with keyboard (two players human versus computer with artificial intelligence ; algorithm minmax-alphabeta) ;
 - version two players in graphic mode with JAVA SWING packages (two players human or versus computer with artificial intelligence ; algorithm minmax-alphabeta) ;
 
---
+---
 
 * version one player in text mode with keyboard (one player human versus computer with artificial intelligence ; algorithm minmax-alphabeta) ; :
 
